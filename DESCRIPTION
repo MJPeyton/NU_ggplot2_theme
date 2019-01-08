@@ -1,0 +1,13 @@
+Package: nustyle
+Title: Northwestern brand standards and colors for ggplot, etc.
+Version: 0.1
+Authors@R: person("Matt", "Peyton", email = "MattPeyton1@gmail.com", role = c("aut", "cre"))
+Description: This package contains styles to approach Northwestern brand standards.
+Depends: R (>= 3.4.4)
+Imports:
+  dplyr,
+  ggplot2
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0.9000
