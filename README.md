@@ -7,4 +7,8 @@ Secondary Colors: https://www.northwestern.edu/brand/visual-identity/color/secon
 ### Theme To Do:  
 [ ] Substitute font to Campton  
 [ ] Font backup to system  
-[ ] Set base/default colors (Automatically choose colors from list)  
+[ ] Set base/default colors (Automatically choose colors from list)
+
+
+#### Things to remember
+Ctrl + Shift + D = updates documentation

@@ -1,10 +1,12 @@
 #' NU Color Function
 #'
 #' This function pulls in Northwestern colors
-#' @keywords NU
+#' @keywords Northwestern
 #' @export
 #' @examples
-#' nu_cols
+#' nu_col
+#' nu_bright
+#' nu_dark
 
 nu_col <- c(
   purple      = "#4E2A84",
